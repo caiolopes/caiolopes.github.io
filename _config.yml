@@ -6,8 +6,8 @@ description: A web site about Caio Lopes and what he is up to
 
 # User settings
 username: Caio Lopes
-user_description: Current full stack developer at Raccoon.ag. 3+ years experience with web and Android development. Nerd who loves hackathons, entrepreneurship, open source, coffee and vim. Interested in machine learning, data visualization, learn new technologies, and solve challenging problems.
-user_title: Full Stack Developer
+user_description: Current Software Engineer Intern at Motorola Mobility. 3+ years experience with web and Android development. Nerd who loves hackathons, entrepreneurship, open source, coffee and vim. Interested in machine learning, data visualization, learn new technologies, and solve challenging problems.
+user_title: Software Engineer
 email: caiodesaloeps@gmail.com
 linkedin_username: caiodesalopes
 github_username: caiolopes
@@ -15,6 +15,6 @@ facebook_username: caiodesalopes
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-50242217-2"
 
 exclude: ['package.json', 'src' , 'node_modules']
