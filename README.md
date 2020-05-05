@@ -1,4 +1,6 @@
-# Particle Jekyll Theme
+# Caio Lopes Web Page
+
+Based  on Particle Jekyll Theme
 
 ![](./particle.jpg)
 
